@@ -26,4 +26,28 @@ export const mapper = [
     url: "https://careers.smartrecruiters.com/PublicisGroupe/formerly-known-as",
     fct: smartrecruiters,
   },
+   {
+    url: "https://careers.smartrecruiters.com/PublicisGroupe/razorfish",
+    fct: smartrecruiters,
+  },
+  {
+    url: "https://giantspoon.com/#careers",
+    fct: greenhouse,
+  },
+  {
+    url: "https://www.linkedin.com/jobs/bbh-usa-jobs-worldwide?f_C=213899&trk=top-card_top-card-primary-button-top-card-primary-cta&position=1&pageNum=0",
+    fct: linkedin,
+  },
+  {
+    url: "https://www.codeandtheory.com/careers",
+    fct: greenhouse,
+  },
+  {
+    url: "https://www.linkedin.com/jobs/search/?currentJobId=3686379336&f_C=6599998&geoId=92000000&originToLandingJobPostings=3686379336%2C3672486120",
+    fct: linkedin,
+  },
+  {
+    url: "https://www.ogilvy.com/work-with-us",
+    fct: greenhouse,
+  },
 ]
